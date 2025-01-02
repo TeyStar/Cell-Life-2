@@ -2,7 +2,9 @@
 
 ## Overview
 
-This project simulates a tank environment where different cells interact with each other. Each cell belongs to a team and has various body parts that define its behavior and abilities. The simulation includes features such as cell movement, feeding, reproduction, and evolution.
+This project simulates a tank environment where different cells interact with each other. Each cell belongs to a team and has various body parts that define its behavior and abilities. The simulation includes features such as cell movement, feeding, reproduction, and evolution.  The goal of this project was to have something interesting running on my extra monitor while I work.  Just a little something to look at once in a while, like a fish tank!  
+
+I find it interesting to see what configuration of body parts these cells evolve into to become a successfully surviving spieces.  Successful cells are cells that consume enough energy, then find a mate who has done the same, so that they can reproduce.
 
 ## Table of Contents
 
