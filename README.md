@@ -14,10 +14,8 @@ This project simulates a tank environment where different cells interact with ea
     - [BodyPart](#bodypart)
     - [DNABlueprint](#dnablueprint)
     - [WaterFlow](#waterflow)
-4. [Body Parts](#body-parts)
 5. [Controls](#controls)
 6. [Customization](#customization)
-7. [License](#license)
 
 ## Installation
 
