@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3b7eac96d278c0f42bc5fde79a2c3310, type: 3}
+  m_Name: BodyParts
+  m_EditorClassIdentifier: 
+  flagella: {fileID: 21300000, guid: a8017507a1ffce34dbc282df9852c3bf, type: 3}
+  cilia: {fileID: 21300000, guid: ed7e36a1933f4514eb85c68dae9f70eb, type: 3}
+  jet: {fileID: 21300000, guid: c40bd9318ecbeaf4ab6b921b916e0875, type: 3}
+  glue: {fileID: 21300000, guid: cf3dc985b7dd09547bbbb00c4b78b453, type: 3}
+  eye: {fileID: 21300000, guid: 724b0ca230f3f7a4090352e3bb396883, type: 3}
+  stalk: {fileID: 21300000, guid: 5591ea2b14cf19144826dffb0d10d0f2, type: 3}
+  hair: {fileID: 21300000, guid: 10b7f341cab4b0f4f816673074683555, type: 3}
+  jaw: {fileID: 21300000, guid: b44e92736a52cce4c86c955ee09545f6, type: 3}
+  filter: {fileID: 21300000, guid: a31c6af4c313e154ea6be37440699132, type: 3}
+  photosynthesizer: {fileID: 21300000, guid: c930ef50d4419714d99bce16f3904d73, type: 3}
+  chemosynthesizer: {fileID: 21300000, guid: 7e246afb6b11ae74cbf5c58e839947de, type: 3}
+  proboscis: {fileID: 21300000, guid: 7c444624762f75545b2ff66afd10bfed, type: 3}
+  spike: {fileID: 21300000, guid: 62d853beb05aa9949bc37de5b8139ea4, type: 3}
+  shell: {fileID: 21300000, guid: a2efcea94104f754b99f1a153b8c192f, type: 3}
+  poison: {fileID: 21300000, guid: 36dbd56ca63a6c54a906de878b26f686, type: 3}
+  electric: {fileID: 21300000, guid: 39ef850fe1b2aef46a95709e8cdb77a3, type: 3}
+  egg: {fileID: 21300000, guid: 0e9028d27d5856d408fecdb6dbd26550, type: 3}
